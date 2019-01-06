@@ -1,0 +1,11 @@
+adjoint of a matrix- 
+a= (a b
+    c d)
+adj(a) = (d -b
+          -c a)
+
+
+determinant of a matrix
+
+
+transpose of an array- the horizontal row is interchanged to vertical and vice versa
